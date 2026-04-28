@@ -1,0 +1,3 @@
+public enum Role {
+    ADMIN, DEVELOPER, TESTER, OPERATIONAL
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" filepath="$PROJECT_DIR$/Abstract Factory/Abstract Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Builder Class/Builder Class.iml" filepath="$PROJECT_DIR$/Builder Class/Builder Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Creational Design Pattern.iml" filepath="$PROJECT_DIR$/.idea/Creational Design Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory With Composition/Factory With Composition.iml" filepath="$PROJECT_DIR$/Factory With Composition/Factory With Composition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype/Prototype.iml" filepath="$PROJECT_DIR$/Prototype/Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype Registry/Prototype Registry.iml" filepath="$PROJECT_DIR$/Prototype Registry/Prototype Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype Registry Generic/Prototype Registry Generic.iml" filepath="$PROJECT_DIR$/Prototype Registry Generic/Prototype Registry Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Enum/Singleton Enum.iml" filepath="$PROJECT_DIR$/Singleton Enum/Singleton Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Inner class/Singleton Inner class.iml" filepath="$PROJECT_DIR$/Singleton Inner class/Singleton Inner class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton Pure Bill Pugh/Singleton Pure Bill Pugh.iml" filepath="$PROJECT_DIR$/Singleton Pure Bill Pugh/Singleton Pure Bill Pugh.iml" />
+    </modules>
+  </component>
+</project>

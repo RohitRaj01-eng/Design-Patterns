@@ -1,0 +1,3 @@
+public enum DefaultAvatar {
+    FIGHTER_GUY, FIGHTER_GIRL, BOMBER_GIRL, BOMBER_GUY, NORMAL, SOLDIER
+}
