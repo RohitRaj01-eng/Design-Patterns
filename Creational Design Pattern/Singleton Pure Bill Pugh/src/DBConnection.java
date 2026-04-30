@@ -12,7 +12,6 @@ public class DBConnection {
     public String getDummyDbName() {
         return dummyDbName;
     }
-
     public void setDummyDbName(String dummyDbName) {
         this.dummyDbName = dummyDbName;
     }
